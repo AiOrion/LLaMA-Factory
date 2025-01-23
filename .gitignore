@@ -173,3 +173,8 @@ output/
 wandb/
 swanlog/
 generated_predictions.jsonl
+data/alljsondocs.json
+data/alldocs_test.json
+trainall.yaml
+exportall.yaml
+.gitignore
