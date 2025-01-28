@@ -181,3 +181,5 @@ exportall.yaml
 data/alljsondocs_train.json
 data/alljsondocs_valid.json
 data/dataset_info.json
+trainallqw.yaml
+exportallqw.yaml
