@@ -2,20 +2,20 @@
   "identity": {
     "file_name": "identity.json"
   },
-  "alldocstrain_dataset": {
+  "alljsondocstrain_dataset": {
     "file_name": "alljsondocs_train.json",
   "columns":{
       "prompt":   "instruction",
-      "query":    "input",
-      "response": "output"
+      "query":    "prompt",
+      "response": "completion"
     }
   },
-  "alldocstest_dataset": {
+  "alljsondocsvalid_dataset": {
     "file_name": "alljsondocs_valid.json",
     "columns":{
       "prompt":   "instruction",
-      "query":    "input",
-      "response": "output"
+      "query":    "prompt",
+      "response": "completion"
     }
   },
   "alpaca_en_demo": {
