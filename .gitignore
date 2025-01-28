@@ -178,3 +178,6 @@ data/alldocs_test.json
 trainall.yaml
 exportall.yaml
 .gitignore
+data/alljsondocs_train.json
+data/alljsondocs_valid.json
+data/dataset_info.json
